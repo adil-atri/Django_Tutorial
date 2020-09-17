@@ -20,7 +20,7 @@
 project = 'Django_Tutorial'
 copyright = '2020, ATRI'
 author = 'ATRI'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
