@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Django_Tutorial'
+project = 'Django Tutorial'
 copyright = '2020, ATRI'
 author = 'ATRI'
 master_doc = 'index'
