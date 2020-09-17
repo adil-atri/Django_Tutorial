@@ -10,6 +10,7 @@ Welcome to Django_Tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about
 
 
 Indices and tables
